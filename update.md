@@ -6,4 +6,4 @@
 2. 又写了一些Bug...
 
 #下载地址:
-<a  href="https://raw.githubusercontent.com/FIFCOM/FHosts/master/FHosts_Installer.exe">备用链接</font>
+<a  href="https://raw.githubusercontent.com/FIFCOM/FHosts/master/FHosts_Installer.exe">点击下载</font>
